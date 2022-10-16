@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OH-JOU-YEON
-- 👀 I’m interested in django
-- 🌱 I’m currently learning python cleancode 
+- 👀 I’m interested in java
+- 🌱 I’m currently learning os 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
