@@ -44,4 +44,4 @@
 ## 📫 연락처
 
 - 📧 jouyeonoh@gmail.com
-- 📄 [포트폴리오](https://universal-drifter-649.notion.site/Backend-Developer-36b11ac820bf80168677ebcc1fefee82)
+
